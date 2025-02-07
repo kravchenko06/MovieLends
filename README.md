@@ -28,7 +28,7 @@ Zdrojové dáta sú štruktúrované v relačnej databáze a obsahujú nasleduj�
 Surové dáta sú usporiadané v relačnom modeli, ktorý je znázornený na **entitno-relačnom diagrame (ERD)**:
 
 <p align="center">
-  <img src="https://github.com/kravchenko06/MovieLends/blob/main/erd_schema.png">
+  <img src="https://github.com/kravchenko06/MovieLends/blob/main/erd_schema_movielends.png">
   <br>
   <em>Obrázok 1 Entitno-relačná schéma IMDb</em>
 </p>
